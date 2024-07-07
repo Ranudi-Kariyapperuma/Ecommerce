@@ -37,3 +37,8 @@ You need a modern web browser installed.
 
 ![ecom1](https://github.com/ranudi123/Ecommerce/assets/108453143/4b8487ba-13ca-4964-829b-6cb0ab602292)
 
+![ecom3](https://github.com/ranudi123/Ecommerce/assets/108453143/28a53f30-f906-4d08-8089-7393a460ec61)
+
+![ecom4](https://github.com/ranudi123/Ecommerce/assets/108453143/e6e7ea42-e567-40bc-8e84-cca2798eaecd)
+
+
