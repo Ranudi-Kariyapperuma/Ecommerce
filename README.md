@@ -35,4 +35,5 @@ You need a modern web browser installed.
 
 ## Screenshots
 
+![ecom1](https://github.com/ranudi123/Ecommerce/assets/108453143/4b8487ba-13ca-4964-829b-6cb0ab602292)
 
