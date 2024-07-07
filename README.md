@@ -8,8 +8,6 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 This project is an ecommerce website built using HTML, CSS, and JavaScript.
@@ -34,4 +32,7 @@ You need a modern web browser installed.
 1. Clone the repo
    ```sh
    git clone https://github.com/ranudi123/Ecommerce.git
+
+## Screenshots
+
 
