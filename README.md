@@ -12,13 +12,11 @@
 - [Contact](#contact)
 
 ## Overview
-This project is an ecommerce website built using HTML, CSS, and JavaScript. The website allows users to browse products, add them to a cart, and proceed to checkout.
+This project is an ecommerce website built using HTML, CSS, and JavaScript.
 
 ## Features
 - Product listing
-- Product search
-- Shopping cart
-- Checkout process
+- Product Category
 - Responsive design
 
 ## Technologies Used
@@ -35,5 +33,5 @@ You need a modern web browser installed.
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/yourusername/ecommerce-website.git
+   git clone https://github.com/ranudi123/Ecommerce.git
 
